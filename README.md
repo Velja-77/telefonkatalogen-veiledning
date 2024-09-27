@@ -35,7 +35,7 @@ Installer annen programvare du ønsker. For eksempel VS Code, en annen nettleser
  a. Hvis du får trøbbel med VS Code, last ned .deb for arm64 frahttps://code.visualstudio.com/docs/setup/linux Naviger til mappen du lastetned filen
  b. Skriv sudo apt install ./code og trykk tab, så enter
 
-9. Kjør sudo apt update og sudo apt upgrade igjenStyr maskinen fra laptopen med SSHI fremtiden kan du styre Pien fra laptopen din med SSH, f.eks. i CMD eller PowerShell. Hvis du vil koble til med ssh fra laptop skriver du:
+Kjør sudo apt update og sudo apt upgrade igjenStyr maskinen fra laptopen med SSHI fremtiden kan du styre Pien fra laptopen din med SSH, f.eks. i CMD eller PowerShell. Hvis du vil koble til med ssh fra laptop skriver du:
  a. ssh brukernavn@ip
  b. (bytt ut brukernavn og ip med dine)
 PS: Skru av maskinen med sudo shutdown now og vent litt før du eventuelt tar strømmen
